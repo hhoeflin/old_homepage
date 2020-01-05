@@ -1,11 +1,11 @@
 # Site Settings
-title: Holger's Notes
-tagline: Holger's Notes
-email: hhoeflin@gmail.com
+title: Bulma Clean Theme
+tagline: Bulma Clean Theme
+email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
-url: "hhoeflin.github.io"
+url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 
@@ -17,7 +17,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: hhoeflin
+  shortname: csrhymes
 
 
 plugins:
@@ -58,10 +58,19 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "H. Hoefling"
+      author: "C.S. Rhymes"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
 
 markdown: kramdown
 highlighter: rouge
+
+footer_menu: example_footer_menu
+
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
