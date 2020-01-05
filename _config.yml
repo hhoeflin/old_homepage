@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site Settings
 title: Holger's Notes
 tagline: Holger's Notes
@@ -65,4 +66,3 @@ defaults:
 
 markdown: kramdown
 highlighter: rouge
-
