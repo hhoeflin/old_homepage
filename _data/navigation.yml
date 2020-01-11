@@ -1,7 +1,11 @@
-- name: Pages
+- name: hdf5r
   link: /#
   dropdown:
-    - name: hdf5r
-      link: /hdf5r
+    - name: Manual
+      link: https://hhoeflin.github.io/hdf5r
+    - name: Source code
+      link: https://github.com/hhoeflin/hdf5r
+    - name: CRAN
+      link: https://cran.r-project.org/web/packages/hdf5r/index.html
 - name: Blog
   link: /blog/
