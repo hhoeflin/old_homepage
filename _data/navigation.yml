@@ -7,5 +7,12 @@
       link: https://github.com/hhoeflin/hdf5r
     - name: CRAN
       link: https://cran.r-project.org/web/packages/hdf5r/index.html
+- name: About
+  link: /#
+  dropdown:
+    - name: Publications
+      link: /pages/publications
+    - name: Linkedin
+      link: https://ch.linkedin.com/in/holger-h%C3%B6fling-96590552
 - name: Blog
   link: /blog/
