@@ -11,7 +11,15 @@ TBD
 
 # Projects
 
-## Articles
+## Publications
+Something above
+{% include callout_item.html 
+img_src="https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg"
+title="Test" subtitle="Subtest" 
+description="This is a description"
+%}
+
+Please also have a look at my other [publications]({{ site.baseurl }}{% link pages/publications.md %}). 
 
 ## hdf5r
 

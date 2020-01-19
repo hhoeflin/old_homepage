@@ -10,6 +10,8 @@
 - name: About
   link: /#
   dropdown:
+    - name: CV
+      link: /online-cv/
     - name: Publications
       link: /pages/publications
     - name: Linkedin
