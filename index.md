@@ -19,7 +19,7 @@ of predictive algorithms for kidney disease to the
 statistical analysis of experiments in early non-clinical
 research with microarray, NGS and other biomarker data.
 
-More recently I have been the leader of a small team of
+More recently I have been the leader of a team of
 machine learners working on applications in cheminformatics
 as well deep learning on histopathology images.
 
