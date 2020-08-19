@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Using bash in Docker" 
+title: "Configuring bash in Docker" 
 date: 2020-08-19
 tags: docker shell bash
-description: "Considering how best to use bash in docker containers"
+description: "Considering how best to configure bash in docker containers"
 published: true
 ---
 
