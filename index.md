@@ -9,9 +9,9 @@ hero_height: is-fullwidth
 # Introduction
 
 My name in Holger Hoefling and I am a Statistician, Machine Learner 
-and Bioinformatician. For the last 9 years I have worked for Novartis
-in various role, currently as the Lead of the machine learning
-group in Scientific Data Analysis, NX, NIBR. 
+and Bioinformatician. For the last 10 years I have worked for Novartis
+in various roles, currently as the Lead of the machine learning
+group in Data Science, NX, NIBR. 
 
 In my career I have worked on a wide range of data science
 problems in the healthcare field. This experience spans

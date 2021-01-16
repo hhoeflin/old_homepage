@@ -5,7 +5,8 @@ email: hhoeflin@gmail.com
 description: >
   Website with information about projects, articles etc.
 permalink: pretty
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
+theme_color: '#000033'
 #favicon: /path/to/favicon.png
 
 paginate: 5
@@ -22,7 +23,7 @@ plugins:
   - kramdown
   - rouge
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -55,9 +56,9 @@ defaults:
       author: "Holger Hoefling"
       layout: post
       show_sidebar: true
+      hero_height: is-fullwidth
 
 markdown: kramdown
 highlighter: rouge
 
 footer_menu: footer_menu
-
