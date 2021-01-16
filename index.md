@@ -3,6 +3,7 @@ title: Holger's Notes
 subtitle: Projects, articles and posts
 layout: page
 show_sidebar: true
+hero_height: is-fullwidth
 ---
 
 # Introduction
