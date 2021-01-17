@@ -5,9 +5,9 @@ email: hhoeflin@gmail.com
 description: >
   Website with information about projects, articles etc.
 permalink: pretty
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 theme_color: '#000033'
-#favicon: /path/to/favicon.png
+favicon: favicon.ico
 repository: hhoeflin/hhoeflin.github.io
 
 paginate: 5
