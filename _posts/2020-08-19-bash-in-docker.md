@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Configuring bash in Docker" 
+title: "Configuring bash in Docker"
 date: 2020-08-19
 tags: docker shell bash
 description: "Considering how best to configure bash in docker containers"
 published: true
 ---
 
-This is the first of a series of posts dealing with questions around 
+This is the first of a series of posts dealing with questions around
 using docker containers in data science.
 
 {% include_relative docker/bash.md %}
